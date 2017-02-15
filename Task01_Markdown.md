@@ -24,10 +24,11 @@ GitHub là một dịch vụ lưu trữ trên web dành cho các dự án có s�
 GitHub cung cấp chức năng social networking như là feeds,followers và network grap để các developer học
 hỏi kinh nghiệm làm việc thông qua lịch sử commit.Nếu comment dùng để mô tảchức năng đoạn code,thì commit message
 trên git dùng để mô tả hành động dev vừa thực hiện trên code.
+
 **Cần làm gì để có thể sử dụng GitHub?**
 - B1: Đăng ký một tài khoản tại github và đăng nhập
 - B2: Học cách sử dụng ngôn ngữ Markdown
-( vì nếu viết bài bằng markdown sẽ mang lại sự tương mình cho bài viết của bạn)
+( vì nếu viết bài bằng markdown sẽ mang lại sự tường  mình cho bài viết của bạn)
 - B3: Tạo một repo đầu tiên và gõ Hello world bằng Markdown
 Sau đó tạo các repo tùy mục đích, clone nó về client và code.
 
@@ -55,4 +56,14 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 
 <a name="cuphapsudung"></a>
 ### 4.Cú pháp sử dụng Markdown
+
+	**Tạo tiêu đề:**
+	#1.Tiêu đề 1
+	##2.Tiêu đề 2
+	###3.Tiêu đề 3
+	####4.Tiêu đề 4
+	#####5.Tiêu đề 5
+	######6.Tiêu đề 6
+	#######7.Tiêu đề 7
+	
 
