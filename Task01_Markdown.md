@@ -65,11 +65,13 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 Để tạo tiêu đề trong markdown chúng ta chỉ cần chèn ký tự #ngay phía trước.Số lượng ký tự # sẽ xác định độ sâu của tiêu đề(h1-h6 trong HTML)
 
 **Định dạng chữ**
+
 	**In đậm** hoặc __In đậm__(<b>-HTMl)
 	*In nghiêng* hoặc _In nghiêng_
 	~~Chữ gạch ngang~~
 
 **Tạo danh sách**
+
 	Tạo danh sách dạng số :
 		1.Danh sách 1 
 		2.Danh sách 2
@@ -78,33 +80,41 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 		- Danh sách 1 
 		- Danh sách 2
 **Tạo liên kết**
-![Tên Link](Đường dẫn) (<a>)
-![Tên Link với chú thích](đường dẫn"chú thích") (<a name="chú thích">)
+
+	![Tên Link](Đường dẫn) (<a>)
+	![Tên Link với chú thích](đường dẫn"chú thích") (<a name="chú thích">)
 
 **Tạo liên kết tự động** 
- chỉ cần gõ đường link tuyệt đối(có HTTP hoặc HTTPs markdown sẽ tự liên kết tự động)
- https://gitter.im/bi-to
+
+	 chỉ cần gõ đường link tuyệt đối(có HTTP hoặc HTTPs markdown sẽ tự liên kết tự động)
+	 https://gitter.im/bi-to
  
 **Tạo hình ảnh**
- ![](đường dẫn)(<img/>)
- ![](đường dẫn"title")(<img alt="">)
+
+	 ![](đường dẫn)(<img/>)
+	 ![](đường dẫn"title")(<img alt="">)
  
 **Tạo trích dẫn**
- Để tạo trích dẫn bạn chèn > ngay phía trước
+
+ 	Để tạo trích dẫn bạn chèn > ngay phía trước
 
 **Tạo đường kẻ gạch ngang**
-Bạn gõ --- hoặc *** hoặc ___
 
-** Tạo điểm nhấn **  
-==Text==
+	Bạn gõ --- hoặc *** hoặc ___
+
+** Tạo điểm nhấn ** 
+
+	==Text==
 
 **Tạo chú thích cuối trang**
--[^1]:chú thích 1
+
+	-[^1]:chú thích 1
 
 **Tạo bảng**
-|Cột 1 hàng 1 |Cột 2|Cột 3|Cột 4|
-|-------------|-----|-----|-----|
-|Hàng 2       | 2*1 |2*2  | 2*3 |
-|Hàng 3       | 3*1 | 3*2 | 3*3 |
+
+	|Cột 1 hàng 1 |Cột 2|Cột 3|Cột 4|
+	|-------------|-----|-----|-----|
+	|Hàng 2       | 2*1 |2*2  | 2*3 |
+	|Hàng 3       | 3*1 | 3*2 | 3*3 |
 	
 
