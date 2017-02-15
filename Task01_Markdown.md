@@ -8,13 +8,13 @@
 > Cập nhật lần cuối: **15/02/2017**
 
 ### Mục lục 
-[1.Tìm hiểu GitHub](#timhieugithub)
+[1. Tìm hiểu GitHub](#timhieugithub)
 
-[2.Markdown là gì?](#markdownlagi)
+[2. Markdown là gì?](#markdownlagi)
 
-[3.Lịch sử hình thành markdown](#lichsumarkdown)
+[3. Lịch sử hình thành markdown](#lichsumarkdown)
 
-[4.Cú pháp sử dụng markdown](#cuphapsudung)
+[4. Cú pháp sử dụng markdown](#cuphapsudung)
 - [4.1. Tạo tiêu đề](#taotieude)
 
 - [4.2. Định dạng chữ ](#dinhdangchu)
@@ -23,9 +23,19 @@
 
 - [4.4. Tạo liên kết](#taolienket)
 
-- [4.5. Tạo liên kết tự động)(#lienkettudong)
+- [4.5. Tạo liên kết tự động](#lienkettudong)
 
-- [4.6. Tạo hình ảnh)(#tạohinhanh)
+- [4.6. Tạo hình ảnh](#tạohinhanh)
+
+- [4.7. Tạo trích dẫn](#taotrichdan)
+
+- [4.8.Tạo kẻ ngang](#taokengang)
+
+- [4.9. Tạo điểm nhấn ](#taodiemnhan)
+
+- [4.10. Tạo chú thích cuối trang](#taochuthich)
+
+- [4.11. Tạo bảng  ](#taobang)
 
 	
 ---
