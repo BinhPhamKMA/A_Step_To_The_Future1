@@ -15,6 +15,7 @@
 [3. Lịch sử hình thành markdown](#lichsumarkdown)
 
 [4. Cú pháp sử dụng markdown](#cuphapsudung)
+
 - [4.1. Tạo tiêu đề](#taotieude)
 
 - [4.2. Định dạng chữ ](#dinhdangchu)
@@ -25,7 +26,7 @@
 
 - [4.5. Tạo liên kết tự động](#lienkettudong)
 
-- [4.6. Tạo hình ảnh](#tạohinhanh)
+- [4.6. Tạo hình ảnh](#taohinhanh)
 
 - [4.7. Tạo trích dẫn](#taotrichdan)
 
@@ -79,6 +80,7 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 <a name="cuphapsudung"></a>
 ### 4.Cú pháp sử dụng Markdown
 
+<a name="taotieude"></a>
 **Tạo tiêu đề:**
 
 	 #1.Tiêu đề 1
@@ -86,12 +88,14 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 	
 Để tạo tiêu đề trong markdown chúng ta chỉ cần chèn ký tự #ngay phía trước.Số lượng ký tự # sẽ xác định độ sâu của tiêu đề(h1-h6 trong HTML)
 
+<a name="dinhdangchu"></a>
 **Định dạng chữ**
 
 	**In đậm** hoặc __In đậm__(<b>-HTMl)
 	*In nghiêng* hoặc _In nghiêng_
 	~~Chữ gạch ngang~~
-
+	
+<a name="taodanhsach"></a>
 **Tạo danh sách**
 
 	Tạo danh sách dạng số :
@@ -101,37 +105,45 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 	Tạo dạnh sách bullet :
 		- Danh sách 1 
 		- Danh sách 2
+<a name="taolienket"></a>		
 **Tạo liên kết**
 
 	![Tên Link](Đường dẫn) (<a>)
 	![Tên Link với chú thích](đường dẫn"chú thích") (<a name="chú thích">)
 
+<a name="lienkettudong"></a>
 **Tạo liên kết tự động** 
 
 	 chỉ cần gõ đường link tuyệt đối(có HTTP hoặc HTTPs markdown sẽ tự liên kết tự động)
 	 https://gitter.im/bi-to
- 
+	 
+<a name="taohinhanh"></a> 
 **Tạo hình ảnh**
 
 	 ![](đường dẫn)(<img/>)
 	 ![](đường dẫn"title")(<img alt="">)
- 
+	 
+<a name="taotrichdan"></a>
 **Tạo trích dẫn**
 
  	Để tạo trích dẫn bạn chèn > ngay phía trước
-
+	
+<a name="taokengang"></a>
 **Tạo đường kẻ gạch ngang**
 
 	Bạn gõ --- hoặc *** hoặc ___
 
+<a name="taodiemnhan"></a>
 ** Tạo điểm nhấn ** 
 
 	==Text==
-
+	
+<a name="taochuthich"></a>
 **Tạo chú thích cuối trang**
 
 	-[^1]:chú thích 1
 
+<a name="taobang"></a>
 **Tạo bảng**
 
 	|Cột 1 hàng 1 |Cột 2|Cột 3|Cột 4|
