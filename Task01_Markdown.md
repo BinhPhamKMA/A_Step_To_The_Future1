@@ -58,12 +58,10 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 ### 4.Cú pháp sử dụng Markdown
 
 **Tạo tiêu đề:**
-	>#1.Tiêu đề 1
-	>##2.Tiêu đề 2
-	>###3.Tiêu đề 3
-	>####4.Tiêu đề 4
-	>#####5.Tiêu đề 5
-	>######6.Tiêu đề 6'
+
+	 #1.Tiêu đề 1
+	 ##2.Tiêu đề 2
+	
 Để tạo tiêu đề trong markdown chúng ta chỉ cần chèn ký tự #ngay phía trước.Số lượng ký tự # sẽ xác định độ sâu của tiêu đề(h1-h6 trong HTML)
 
 **Định dạng chữ**
