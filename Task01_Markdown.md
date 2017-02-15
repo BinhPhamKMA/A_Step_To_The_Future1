@@ -134,7 +134,7 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 	Bạn gõ --- hoặc *** hoặc ___
 
 <a name="taodiemnhan"></a>
-** Tạo điểm nhấn ** 
+**Tạo điểm nhấn** 
 
 	==Text==
 	
