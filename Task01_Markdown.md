@@ -1,5 +1,4 @@
-![https://www.google.com.vn/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjlr9XUvZLSAhWGGpQKHU7tDQkQjRwIBw&url=http%3A%2F%2Fvn.aucfan.com%2F&psig=AFQjCNHv48c42BUudMcdnSrV2C_kL1ytYw&ust=1487261133830497]
-
+![](https://www.google.com.vn/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjhl_ugvpLSAhWBOpQKHa4ZC5UQjRwIBw&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FMarkdown&bvm=bv.146786187,d.dGo&psig=AFQjCNGFDTQnFRgVw5ApQnStFQPFfo4G8w&ust=1487261300829227)
 ## Tìm hiểu markdown.
 
 > Tài liệu: 
