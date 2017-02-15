@@ -16,11 +16,17 @@
 
 [4.Cú pháp sử dụng markdown](#cuphapsudung)
 - [4.1. Tạo tiêu đề](#taotieude)
+
 - [4.2. Định dạng chữ ](#dinhdangchu)
+
 - [4.3. Tạo danh sách](#taodanhsach)
+
 - [4.4. Tạo liên kết](#taolienket)
+
 - [4.5. Tạo liên kết tự động)(#lienkettudong)
+
 - [4.6. Tạo hình ảnh)(#tạohinhanh)
+
 	
 ---
 
