@@ -20,19 +20,16 @@
 
 <a name="timhieugithub"></a>
 ### 1.Tìm hiểu GitHub
-		GitHub là một dịch vụ lưu trữ trên web dành cho các dự án có sử dụng hệ thống
-	kiểm soát Git revision.
-		GitHub cung cấp chức năng social networking như là feeds,followers và network grap để 
-	các developer học hỏi kinh nghiệm làm việc thông qua lịch sử commit.Nếu comment dùng để mô tả
-	chức năng đoạn code,thì commit message trên git dùng để mô tả hành động dev vừa thực hiện trên code.
-	**Cần làm gì để có thể sử dụng GitHub?**
-		- B1: Đăng ký một tài khoản tại github và đăng nhập
-		
-		- B2: Học cách sử dụng ngôn ngữ Markdown
-		( vì nếu viết bài bằng markdown sẽ mang lại sự tương mình cho bài viết của bạn)
-		
-		- B3: Tạo một repo đầu tiên và gõ Hello world bằng Markdown
-			Sau đó tạo các repo tùy mục đích, clone nó về client và code.
+GitHub là một dịch vụ lưu trữ trên web dành cho các dự án có sử dụng hệ thốngmkiểm soát Git revision.
+GitHub cung cấp chức năng social networking như là feeds,followers và network grap để các developer học
+hỏi kinh nghiệm làm việc thông qua lịch sử commit.Nếu comment dùng để mô tảchức năng đoạn code,thì commit message
+trên git dùng để mô tả hành động dev vừa thực hiện trên code.
+**Cần làm gì để có thể sử dụng GitHub?**
+- B1: Đăng ký một tài khoản tại github và đăng nhập
+- B2: Học cách sử dụng ngôn ngữ Markdown
+( vì nếu viết bài bằng markdown sẽ mang lại sự tương mình cho bài viết của bạn)
+- B3: Tạo một repo đầu tiên và gõ Hello world bằng Markdown
+Sau đó tạo các repo tùy mục đích, clone nó về client và code.
 
 ---
 
