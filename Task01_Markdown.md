@@ -57,16 +57,7 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 <a name="cuphapsudung"></a>
 ### 4.Cú pháp sử dụng Markdown
 
-	**Tạo tiêu đề:**
-	#1.Tiêu đề 1
-	##2.Tiêu đề 2
-	###3.Tiêu đề 3
-	####4.Tiêu đề 4
-	#####5.Tiêu đề 5
-	######6.Tiêu đề 6
-	#######7.Tiêu đề 7
-	
-	**Tạo tiêu đề:**
+**Tạo tiêu đề:**
 	#1.Tiêu đề 1
 	##2.Tiêu đề 2
 	###3.Tiêu đề 3
