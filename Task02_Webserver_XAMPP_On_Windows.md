@@ -10,11 +10,11 @@
 ### Mục lục
 [1. Tìm hiểu localhost](#timhieulocalhost)
 
-[1.1 Khái niệm localhost](#khainiemlocalhost)
+- [1.1 Khái niệm localhost](#khainiemlocalhost)
 	
-[1.2 Mục đích sử dụng localhost](#mucdichsudunglocalhost)
+- [1.2 Mục đích sử dụng localhost](#mucdichsudunglocalhost)
 	
-[1.3 localhost vận hành như thế nào](#localhostvanhanhnhuthenao)
+- [1.3 localhost vận hành như thế nào](#localhostvanhanhnhuthenao)
 	
 [2. Tìm hiểu XAMPP](#timhieuxampp)
 
@@ -26,7 +26,7 @@
 <a name="timhieulocalhost"></a>
 ### 1.Tìm hiểu localhost
 
-	<a name="khainiemlocalhost"></a>
+<a name="khainiemlocalhost"></a>
 	#### 1.1 Khái niệm localhost
 	Localhostlà địa chỉ của 1 máy chủ(server) cho phép các máy trong mạng  LAN có thể truy xuất thông tin theo một phương thức nào đó, dĩ nhiên trong đó có máy của mình rồi.
 	Thông thường localhost hiểu là một Server trên máy của mình dùng vào một số mục đích nhất định nào đó.
