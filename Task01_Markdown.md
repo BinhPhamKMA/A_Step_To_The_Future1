@@ -147,8 +147,8 @@ Năm 2004, John_Gruber - một designer, blogger chuyên về các sản phẩm 
 
 	|Cột 1 hàng 1 |Cột 2|Cột 3|Cột 4|
 	|-------------|-----|-----|-----|
-	|Hàng 2       | 2*1 |2*2  | 2*3 |
-	|Hàng 3       | 3*1 | 3*2 | 3*3 |
+	|Hàng 2       | 2x1 |2x2  | 2x3 |
+	|Hàng 3       | 3x1 | 3x2 | 3x3 |
 
 ### Hết
 	
