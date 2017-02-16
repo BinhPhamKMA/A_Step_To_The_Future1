@@ -14,7 +14,7 @@
 	
 - [1.2 Mục đích sử dụng localhost](#mucdichsudunglocalhost)
 	
-- [1.3 localhost vận hành như thế nào](#localhostvanhanhnhuthenao)
+- [1.3 Localhost vận hành như thế nào](#localhostvanhanhnhuthenao)
 	
 [2. Tìm hiểu XAMPP](#timhieuxampp)
 
@@ -58,3 +58,13 @@ Hiện nay có những gói cài đặt, được tích hợp tất cả những
 Các gói cài đặt dạng này có thể kết đến như : XAMPP, LAMPP, Appserv ...
 
 Nổi trội trong số đó là XAMPP với những ưu điểm vượt trội : Nhỏ gọn, tiện lợi, dễ cài đặt và sử dụng, ít lỗi
+
+<a name="localhostvanhanhnhuthenao"></a>
+#### 1.3 Localhost vận hành như thế nào
+Localhost thường chạy mặc định với những tên miền chính gồm: 
+'''
+http://localhost
+http://127.0.0.1
+'''
+http://tenmay (tenmay chính là tên máy tính của bạn khi cài đặt Window)
+
