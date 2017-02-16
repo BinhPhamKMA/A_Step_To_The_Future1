@@ -10,11 +10,11 @@
 ### Mục lục
 [1. Tìm hiểu localhost](#timhieulocalhost)
 
-	[1.1 Khái niệm localhost](#khainiemlocalhost)
+[1.1 Khái niệm localhost](#khainiemlocalhost)
 	
-	[1.2 Mục đích sử dụng localhost](#mucdichsudunglocalhost)
+[1.2 Mục đích sử dụng localhost](#mucdichsudunglocalhost)
 	
-	[1.3 localhost vận hành như thế nào](#localhostvanhanhnhuthenao)
+[1.3 localhost vận hành như thế nào](#localhostvanhanhnhuthenao)
 	
 [2. Tìm hiểu XAMPP](#timhieuxampp)
 
