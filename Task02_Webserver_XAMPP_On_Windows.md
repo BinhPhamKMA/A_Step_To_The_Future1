@@ -62,9 +62,11 @@ Nổi trội trong số đó là XAMPP với những ưu điểm vượt trội 
 <a name="localhostvanhanhnhuthenao"></a>
 #### 1.3 Localhost vận hành như thế nào
 Localhost thường chạy mặc định với những tên miền chính gồm: 
+
 '''sh
 http://localhost
 http://127.0.0.1
 '''
+
 http://tenmay (tenmay chính là tên máy tính của bạn khi cài đặt Window)
 
